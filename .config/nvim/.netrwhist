@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/npc/install/stconfig'
+let g:netrw_dirhist_5='/home/npc/install/st'
+let g:netrw_dirhist_4='/mnt/c/Users/niels/bogodrive/master/mscthesis/.vim'
+let g:netrw_dirhist_3='/mnt/c/Users/niels/bogodrive/master/code/soundzones/algorithms/setup-03/stream-based-detectibility-minimization-freqapprox'
+let g:netrw_dirhist_2='/home/npc/pyperceptualaudio'
+let g:netrw_dirhist_1='/home/npc/.oh-my-zsh'
+let g:netrw_dirhist_0='/home/npc/.oh-my-zsh/custom/themes/powerlevel10k'
+let g:netrw_dirhist_9='/home/npc/.oh-my-zsh/custom/themes'
+let g:netrw_dirhist_8='/home/npc/.oh-my-zsh/custom'
+let g:netrw_dirhist_7='/home/npc/.oh-my-zsh'

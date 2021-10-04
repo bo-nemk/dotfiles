@@ -1,0 +1,32 @@
+{
+    "jedi.enable": true,
+    "jedi.startupMessage": true,
+    "jedi.jediSettings.autoImportModules": ["numpy","pandas","scipy","pyperceptualaudio"],
+    "jedi.executable.command": "jedi-language-server",
+
+    "snippets.userSnippetsDirectory": "~/.config/nvim/snippets/",
+
+    "explorer.file.autoReveal": true,
+    "explorer.previewAction.onHover": false, 
+    "explorer.icon.enableVimDevicons": true,
+    "explorer.icon.enableNerdfont": true,
+    "explorer.git.enable": true,
+    "explorer.git.showIgnored": true,
+    "explorer.buffer.root.template": "[icon & 1] OPEN EDITORS",
+    "explorer.file.root.template": "[icon & 1] PROJECT ([root])",
+    "explorer.file.child.template": "[git | 2] [selection | clip | 1] [indent][icon | 1] [diagnosticError & 1][filename omitCenter 1][modified][readonly] [linkIcon & 1][link growRight 1 omitCenter 5]",
+
+    "cSpell.enabled": true,
+    "cSpell.import": ["~/.config/nvim/cspell/latex/cspell-ext.json"],
+    "cSpell.allowCompoundWords": false,
+    "cSpell.showStatus": true,
+    "cSpell.language": "en-US",
+    "cSpell.numSuggestions": 8,
+    "cSpell.enabledLanguageIds": [
+      "tex",
+      "markdown"
+    ],
+    "cSpell.userWords": [
+      "neurograms"
+    ]
+}
