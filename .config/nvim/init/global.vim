@@ -32,4 +32,3 @@ nmap <leader>8 :bfirst<CR>:7bn<CR>
 nmap <leader>9 :bfirst<CR>:8bn<CR> 
 nmap <leader>0 :bfirst<CR>:9bn<CR> 
 
-
