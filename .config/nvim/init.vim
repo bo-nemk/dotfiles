@@ -21,4 +21,11 @@ if !exists('g:vscode')
 
     " Automatically go to the directory of the current window
     set autochdir
+else 
+    xmap gc  <Plug>VSCodeCommentary
+    nmap gc  <Plug>VSCodeCommentary
+    omap gc  <Plug>VSCodeCommentary
+    nmap gcc <Plug>VSCodeCommentaryLine
+    nmap <C-a> <Cmd>call VSCodeCall('fzf-quick-open.runFzfFile')<CR>
+
 endif
